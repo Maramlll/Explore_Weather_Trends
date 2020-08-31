@@ -1,7 +1,8 @@
 # Udacity_Data_Analyst_project1
-## Explore_Weather_Trends
 
-### I completed this project as part of Udacity's Data Analyst Nanodegree
+## Explore_Weather_Trends
+## by (Maram Alobaid)
+#### I completed this project as part of Udacity's Data Analyst Nanodegree
 
 ## Summary
 For this project, i analyzed local and global temperature data and compare the temperature trends for the closest city from where i live to overall global temperature trends.
